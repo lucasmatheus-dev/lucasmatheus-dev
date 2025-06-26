@@ -42,8 +42,8 @@ More on that: [http://lattes.cnpq.br/4395507396971394](http://lattes.cnpq.br/439
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmatheus-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmatheus-dev&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmatheus-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmatheus-dev&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
