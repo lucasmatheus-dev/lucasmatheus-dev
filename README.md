@@ -1,10 +1,10 @@
 <img align="right" alt="IMG" height="180px" src="https://jasonfangworks.com/static/picture/cat11.png" />
 
-### Hey, I'm Lucas 👋
+### Hey there, I'm Lucas.👋😃
 
 📚 Master's student in Computer Engineering, focused on Computational Intelligence.  
 🎓 Bachelor's degree in Computer Engineering from the University of Pernambuco.  
-💻 Junior Artificial Intelligence Engineer, developing Computer Vision solutions using Python.
+💻 Junior Artificial Intelligence Engineer at WeSafer, developing Computer Vision solutions using Python.
 
 More on that: [http://lattes.cnpq.br/4395507396971394](http://lattes.cnpq.br/4395507396971394)
 
@@ -63,10 +63,7 @@ More on that: [http://lattes.cnpq.br/4395507396971394](http://lattes.cnpq.br/439
 </p>
 
 ---
+<p align="center"><i>"Just be a rock."</i></p>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/hopku3rqgms69adh80sgsajpx">
-    <img src="https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify" alt="Now Playing" />
-  </a>
-</p>
+
 
