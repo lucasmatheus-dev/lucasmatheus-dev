@@ -43,7 +43,6 @@ More on that: [http://lattes.cnpq.br/4395507396971394](http://lattes.cnpq.br/439
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasmatheus-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1" height="160"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=lucasmatheus-dev&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
