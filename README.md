@@ -1,4 +1,4 @@
-<img align="right" alt="IMG" height="180px" src="https://jasonfangworks.com/static/picture/cat11.png" />
+<img align="right" alt="IMG" src="https://jasonfangworks.com/static/picture/cat11.png" style="height:180px; max-width:180px;" />
 
 ### Hey there, I'm Lucas.👋😃
 
